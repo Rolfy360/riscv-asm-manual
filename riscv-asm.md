@@ -113,6 +113,16 @@ Latest Specifications draft repository:
 
 ## Instructions
 
+### Type1
+Instruction | Example         | Meaning                     | Comments
+:-------- | :---------- | :---------------                  | ------
+Addition  | add rd, rs1, rs2        | R[rd] = R[rs1] + R[rs2]     | _n/a_
+Subtract  | sub rd, rs1, rs2        | R[rd] = R[rs1] - R[rs2]     | _n/a_
+
+
+### Type2
+### type3
+
 # RISC-V ISA Specifications
 https://riscv.org/specifications/
 
